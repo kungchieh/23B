@@ -24,3 +24,38 @@ print(s)
 var s = "Javascript highlights"
 alert(s)
 ```
+| Name | Height | Weight |
+| :----|:------:| ------:|
+|kemy  |  166   |   55   |
+|Anna  |  161   |   48   |
+|Ricky |  170   |   88   |
+***
+>SNSD
+>>TAEYEON
+
+>>SUNNY
+
+>>TIFFANY
+
+>>HYOYEON
+
+>>YURI
+
+>>SOOYOUNG
+
+>>YOONA
+
+>>SEOHYUN
+
+>SHINee
+>>JongHyun
+
+>>Minho
+
+>>Key
+
+>>Taemin
+
+>>Onew
+***
+[JS MOTOR STORE](https://www.instagram.com/js_motor_store/)
