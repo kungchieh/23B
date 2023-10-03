@@ -3,14 +3,16 @@
 ## 甘特圖
 ```mermaid
 gantt
-    title A Gantt Diagram
+    title My Shedule
 
     section Section
-    A task           :a1, 2014-01-01, 30d
-    Another task     :after a1  , 20d
+    choose topic     :a1, 2023-10-03, 10d
+    find reference & operation   :a2, after a1  , 20d
+
     section Another
-    Task in sec      :2014-01-12  , 12d
-    anther task      : 24d
+    investigation   :a3 , after a2  , 10d
+    test            :a4,after a3 , 15d
+    finish proposal :after a4 , 30d
 ```
 [更多關於 **mermaid** 語法 <i class="fa fa-external-link"></i>](http://mermaid-js.github.io/mermaid)
 &nbsp;
@@ -19,5 +21,7 @@ gantt
 ---
 
 ## PERT/CPM圖
+![PERTJPG](pert_diagram3.png)
 
-##關鍵路徑
+## 關鍵路徑
+1 -> 2 -> 4 -> 5
